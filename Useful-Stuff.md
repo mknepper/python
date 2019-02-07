@@ -5,6 +5,8 @@ This contains commands, modules and other cool things you might want to know abo
 ### List All Functions in a Module
 
 ```python
+# Where 'module' is the name of your desired module (ex. math):
+
 import module
 everything = dir(module)
 print(everything)
