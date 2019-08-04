@@ -1,6 +1,6 @@
 # Introduction
 
-![Banner](https://github.com/mknepper/xork/blob/master/images/logo.png)
+![Banner](https://github.com/mknepper/python/xork/blob/master/images/logo.png)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
 
