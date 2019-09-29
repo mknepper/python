@@ -13,5 +13,5 @@ print(c)
 a = 2
 b = 2
 c = a + c # The variable 'c' is now 5 from earlier.
-# The value of 'c' is now 7, as we have add 'b' to 'c', or 2 + 5.
+# The value of 'c' is now 7, as we have added 'a' to 'c', or 2 + 5.
 print(c)
