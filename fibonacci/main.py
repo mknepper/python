@@ -1,4 +1,4 @@
-# The Fibonacci series in Python 3 - kudus to a tutorial I found online.
+# The Fibonacci series in Python 3 from a tutorial I found online.
 def fibonacci(n):
     a = 0
     b = 1
