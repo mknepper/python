@@ -1,8 +1,5 @@
 import sys
-from modules.addition import addition
-from modules.division import division
-from modules.remainder import remainder
-from modules.printed import printed
+from module import *
 
 printed()
 division()
