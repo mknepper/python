@@ -4,7 +4,7 @@ This contains commands, modules and other cool things you might want to know abo
 
 ---
 
-### List All Functions in a Module
+## List All Functions in a Module
 
 ```python
 import module
@@ -12,7 +12,7 @@ everything = dir(module)
 print(everything)
 ```
 
-### Convert Input to A String, Integer or Float
+## Convert Input to A String, Integer or Float
 
 ```Python
 user_input=int(input())
@@ -21,7 +21,7 @@ user_input=input()
 user_input=str(input())
 ```
 
-### Using Or
+## Using Or
 
 ```python
 if example == yes or example == no:
