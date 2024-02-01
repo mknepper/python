@@ -5,7 +5,7 @@ def four():
     print(y)
 four()
 
-def type():
+def numprint():
     print(input())
 
 type()
